@@ -86,7 +86,7 @@ public class Main {
 	    infoButton.setBounds(350, 400 , 100, 20);
 	    infoButton.addActionListener(new ActionListener() {
 			  public void actionPerformed(ActionEvent e) {
-			    System.exit(0);
+			   // System.exit(0);
 			  }
 		});
 	    
